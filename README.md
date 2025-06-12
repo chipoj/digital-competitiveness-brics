@@ -46,5 +46,5 @@ MIT License
 
 ## 🤝 Connect with Me
 **Chipo Jokonya**  
-📧 [your.email@example.com](mailto:chipojj@gmail.com)  
+📧 [chipojj@gmail.com](mailto:chipojj@gmail.com)  
 🔗 [LinkedIn](www.linkedin.com/in/chipojokonya)
